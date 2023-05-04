@@ -1,0 +1,65 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_E891B58D_E833_EC76_41D0_7B5FD600EBDD.source = https://api.whatsapp.com/send?phone=5583998026422
+LinkBehaviour_E890A0D3_E831_E591_41D0_15026BB725D4.source = https://www.vide360.com.br/escritorio_virtual_vd360/
+
+## Media
+
+### Audio
+audiores_C1FF8BAD_E811_BBB1_41DF_4828CCAFE14A.mp3Url = media/audio_CF74CBA9_E811_BBB1_41E5_7B6EBE9BF971_pt.mp3
+
+### Title
+video_F46ED049_E810_E4FE_41E5_40EC698471A0.label = ASMR RELAXAR Caminhando na PRAIA - 4k
+panorama_EBF6C69C_E7F1_6D96_41C2_B115D70E0F00.label = Academia
+panorama_ED0E5E8B_E7F1_BC72_41A7_95C6CF8B5857.label = Coworking
+panorama_ED0FAA65_E7F1_A4B1_41E3_D8B39D1CD913.label = Cozinha
+panorama_ED0EF133_E7F1_E492_41C1_987A77DC1119.label = Frente Prédio
+panorama_ED0E05C8_E7F1_EFFF_41DA_418D0A0F3F98.label = Hall entrada
+panorama_ED0E9DCE_E7F1_DFF3_41D4_649314DFFF7F.label = Lavanderia
+video_E87D7B4D_E8F3_64F1_41E7_A0488845DEAF.label = O Magico de OZ _ Historia Completa _ Desenho animado infantil com Os Amiguinhos
+panorama_ED0E9997_E7F1_A792_41EC_E05E75CA7F61.label = Piscina
+panorama_ED0EB5D4_E7F1_AF96_41E6_6FB19075F54A.label = Quarto
+panorama_ED0E61BE_E7F1_6793_41D0_03076CD57569.label = Recepção
+panorama_ED0E1E65_E7F1_7CB1_41BF_B67755CDFDBD.label = WC
+album_BF10D069_E830_A4B1_41E0_BAAA41D5B1FE_0.label = academia
+album_BF10D069_E830_A4B1_41E0_BAAA41D5B1FE_3.label = coworking
+album_BF10D069_E830_A4B1_41E0_BAAA41D5B1FE_4.label = lavanderia
+album_BF10D069_E830_A4B1_41E0_BAAA41D5B1FE_5.label = piscina
+album_BF10D069_E830_A4B1_41E0_BAAA41D5B1FE.label = Álbum de Fotos academia
+panorama_ED0E354A_E7F1_6CF2_41C7_246DBE725F3E.label = Área kids
+panorama_ED0E11C8_E7F1_A7FE_41E5_9084C1F70636.label = Área piscina
+album_BF10D069_E830_A4B1_41E0_BAAA41D5B1FE_1.label = área kids
+album_BF10D069_E830_A4B1_41E0_BAAA41D5B1FE_2.label = área piscina
+
+### Video
+videolevel_CDDE0B05_E8A9_BE13_41D3_98223C4BDACE.posterURL = media/video_E87D7B4D_E8F3_64F1_41E7_A0488845DEAF_poster_pt.jpg
+videolevel_CDDE0B05_E8A9_BE13_41D3_98223C4BDACE.url = media/video_E87D7B4D_E8F3_64F1_41E7_A0488845DEAF_pt.mp4
+videolevel_CC364EC0_E8AF_B610_41D1_E55195712E4E.posterURL = media/video_F46ED049_E810_E4FE_41E5_40EC698471A0_poster_pt.jpg
+videolevel_CC364EC0_E8AF_B610_41D1_E55195712E4E.url = media/video_F46ED049_E810_E4FE_41E5_40EC698471A0_pt.mp4
+
+### Video Subtitles
+
+## Right Click Menu
+
+### Text
+menuItem_E89000B9_E830_A59E_41E3_69187A60035D.label = Produzido pela vide360
+menuItem_E8914390_E830_A46E_41E1_8FB81E4F8297.label = Whatsapp
+
+## Skin
+
+### Image
+Image_E895B373_E833_E491_41E2_41FA04F34282.url = skin/Image_E895B373_E833_E491_41E2_41FA04F34282_pt.png
+Image_E89840D2_E830_A592_41C7_267EA7598FDC.url = skin/Image_E89840D2_E830_A592_41C7_267EA7598FDC_pt.png
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Flat
